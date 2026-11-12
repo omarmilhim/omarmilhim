@@ -2,6 +2,8 @@
 
 **Business Analyst · Computer Science graduate (2026)** · Amman, Jordan
 
+🌐 **Portfolio:** [omarmilhim.github.io](https://omarmilhim.github.io)
+
 I turn business needs into clear requirements that developers can build and testers can verify. My software engineering background means I understand how systems are put together and can talk to developers in their terms.
 
 ### 🔍 What I do
@@ -33,4 +35,4 @@ B.Sc. Computer Science, Al-Ahliyya Amman University (2022 – 2026)
 Languages: Arabic (native), English (fluent)
 
 ### 📫 Contact
-omarmilhim75@gmail.com
+omarmilhim75@gmail.com · [omarmilhim.github.io](https://omarmilhim.github.io)
