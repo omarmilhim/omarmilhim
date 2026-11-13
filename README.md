@@ -35,4 +35,4 @@ B.Sc. Computer Science, Al-Ahliyya Amman University (2022 – 2026)
 Languages: Arabic (native), English (fluent)
 
 ### 📫 Contact
-omarmilhim75@gmail.com · [omarmilhim.github.io](https://omarmilhim.github.io)
+omarmilhim75@gmail.com · [omarmilhim.github.io](https://omarmilhim.github.io) · [LinkedIn](https://www.linkedin.com/in/omar-milhim-6a2b26385)
